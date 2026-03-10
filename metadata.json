@@ -1,0 +1,7 @@
+{
+  "name": "Remix: Portal de Ciências Humanas e Sociais Aplicadas",
+  "description": "adminstração da área",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
